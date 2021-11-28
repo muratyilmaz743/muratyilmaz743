@@ -17,9 +17,6 @@
   <img src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
   | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | www.linkedin.com/in/MuratYillmaz  |
   | ------------------------------------------------------------ | --------------------------------- |
   | <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /> | https://muratylmz.herokuapp.com |
