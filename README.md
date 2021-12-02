@@ -7,6 +7,8 @@
   <p align="center">
    <img width="200" src="https://user-images.githubusercontent.com/61375971/143774132-f0e589a7-b8f9-416a-a1e2-bb7573355dfb.gif">
   </p>
+  
+  https://github-readme-stats.vercel.app/api?username=muratyilmaz743
 
 
   <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
