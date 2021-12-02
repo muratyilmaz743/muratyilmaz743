@@ -1,15 +1,13 @@
 <div align="center">
+
+  ![coding](https://user-images.githubusercontent.com/61375971/144427077-a639bc92-f41b-41fd-a164-7f10ce788396.gif)
   <h1> Help companies build complex web applications with modern technologies. </h1>
   <p></p>
 
   ``` Coding on Javascript, dreaming on Javascript.```
 
-  <p align="center">
-   <img width="200" src="https://user-images.githubusercontent.com/61375971/143774132-f0e589a7-b8f9-416a-a1e2-bb7573355dfb.gif">
-  </p>
-  
-  https://github-readme-stats.vercel.app/api?username=muratyilmaz743
 
+  <p></p>
 
   <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
